@@ -1,7 +1,7 @@
 # SL_Lab_6
-Created a personal website having following areas
+Created a personal website having following areas: -
 <br>Header
-Navigation Menu
-Left Sidebar
-Content Area
-Footer Area
+<br>Navigation Menu
+<br>Left Sidebar
+<br>Content Area
+<br>Footer Area
